@@ -15,8 +15,7 @@
 
 ### Notes: 
 
-* Module 1: Looping of terraform resources using count meta-parameter
-           Usage of data source 
+* Module 1: Looping of terraform resources using count meta-parameter and usage of data source 
 
 * Module 2: Usage of Map and Lookup
 
